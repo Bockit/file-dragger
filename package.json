@@ -1,6 +1,6 @@
 {
   "name": "file-dragger",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Listen to file drag-and-drop and emit a file event for each file dropped.",
   "main": "index.js",
   "scripts": {
