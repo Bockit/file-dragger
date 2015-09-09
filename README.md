@@ -6,7 +6,7 @@ Event Emitter that emits a `'file'` event every time a file is dropped onto the 
 Example
 -------
 
-```
+```javascript
 var FileDragger = require('file-dragger')
 var emitter = FileDragger()
 emitter.on('file', function (file) {
